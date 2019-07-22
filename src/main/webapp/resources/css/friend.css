@@ -1,0 +1,7 @@
+@charset "EUC-KR";
+.scroll {
+	height: 120px;
+	width: 80% px;
+	overflow-x: hidden;
+	overflow-y: auto;
+}
