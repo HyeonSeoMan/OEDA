@@ -189,7 +189,7 @@
 		<div class="modal-dialog">
 			<div class="modal-content">
 				<div class="modal-header">
-					OEDA 회원 탈퇴
+					회원 탈퇴
 					<button class="close" data-dismiss="modal">&times;</button>
 				</div>
 				<div class="modal-body" style="text-align: center;">
